@@ -9,7 +9,7 @@ save them to a database, and retrieve them with pagination.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   https://github.com/Rahul-m-bhat/imdb_scraper.git
    cd yourproject
 
 
