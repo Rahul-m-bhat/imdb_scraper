@@ -9,8 +9,8 @@ save them to a database, and retrieve them with pagination.
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/Rahul-m-bhat/imdb_scraper.git
-   cd yourproject
+   git clone https://github.com/Rahul-m-bhat/imdb_scraper.git
+   cd imdb_scraper
 
 
 ## Create and activate virtual environment
